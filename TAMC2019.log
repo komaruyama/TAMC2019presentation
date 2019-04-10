@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  10 APR 2019 13:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  10 APR 2019 13:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -959,14 +959,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\footnote' on input line 41.
 
-(./TAMC2019.aux)
+(./TAMC2019.aux
+
+LaTeX Warning: Label `fig:summary' multiply defined.
+
+)
 \openout1 = `TAMC2019.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 41.
 LaTeX Font Info:    Try loading font information for OML+pxmi on input line 41.
 
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
 File: omlpxmi.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 41.
@@ -1203,14 +1206,14 @@ LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <8> not available
 (Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
-<fig/whiteKAKENHIlogoM_jp.jpg, id=19, 422.57875pt x 179.67125pt>
+<fig/whiteKAKENHIlogoM_jp.jpg, id=75, 422.57875pt x 179.67125pt>
 File: fig/whiteKAKENHIlogoM_jp.jpg Graphic file (type jpg)
 <use fig/whiteKAKENHIlogoM_jp.jpg>
 Package pdftex.def Info: fig/whiteKAKENHIlogoM_jp.jpg  used on input line 45. o
 n input line 45.
 Package pdftex.def Info: Requested size: 51.3422pt x 21.82828pt on input line 4
 5.
-<fig/jstlogo_sample.png, id=20, 485.815pt x 101.37875pt>
+<fig/jstlogo_sample.png, id=76, 485.815pt x 101.37875pt>
 File: fig/jstlogo_sample.png Graphic file (type png)
 <use fig/jstlogo_sample.png>
 Package pdftex.def Info: fig/jstlogo_sample.png  used on input line 45. on inpu
@@ -1221,7 +1224,7 @@ Package pdftex.def Info: Requested size: 102.68962pt x 21.42783pt on input line
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/w
 hiteKAKENHIlogoM_jp.jpg> <./fig/jstlogo_sample.png>] (./slide.tex
-<RNA.png, id=36, 266.49562pt x 222.07968pt>
+<RNA.png, id=92, 266.49562pt x 222.07968pt>
 File: RNA.png Graphic file (type png)
 <use RNA.png>
 Package pdftex.def Info: RNA.png  used on input line 20. on input line 20.
@@ -1354,21 +1357,21 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] [36
 
 ]
-<fig/te.png, id=243, 126.7134pt x 152.9715pt>
+<fig/te.png, id=287, 126.7134pt x 152.9715pt>
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
 Package pdftex.def Info: fig/te.png  used on input line 871. on input line 871.
 
 Package pdftex.def Info: Requested size: 16.293pt x 19.66757pt on input line 87
 1.
-<fig/akusyu1.png, id=244, 105.996pt x 157.0668pt>
+<fig/akusyu1.png, id=288, 105.996pt x 157.0668pt>
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
 Package pdftex.def Info: fig/akusyu1.png  used on input line 871. on input line
  871.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30136pt on input line 
 871.
-<fig/akusyur.png, id=245, 441.65pt x 654.445pt>
+<fig/akusyur.png, id=289, 441.65pt x 654.445pt>
 File: fig/akusyur.png Graphic file (type png)
 <use fig/akusyur.png>
 Package pdftex.def Info: fig/akusyur.png  used on input line 871. on input line
@@ -1387,7 +1390,7 @@ Package pdftex.def Info: fig/te.png  used on input line 871. on input line 871.
 
 Package pdftex.def Info: Requested size: 16.42924pt x 19.8333pt on input line 8
 71.
-<fig/ter.png, id=246, 527.9725pt x 637.38126pt>
+<fig/ter.png, id=290, 527.9725pt x 637.38126pt>
 File: fig/ter.png Graphic file (type png)
 <use fig/ter.png>
 Package pdftex.def Info: fig/ter.png  used on input line 871. on input line 871
@@ -1400,7 +1403,7 @@ Package pdftex.def Info: fig/akusyu1.png  used on input line 871. on input line
  871.
 Package pdftex.def Info: Requested size: 16.42924pt x 24.3451pt on input line 8
 71.
-<fig/TrollFace.jpg, id=247, 3854.4pt x 2168.1pt>
+<fig/TrollFace.jpg, id=291, 3854.4pt x 2168.1pt>
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
 Package pdftex.def Info: fig/TrollFace.jpg  used on input line 871. on input li
@@ -2405,24 +2408,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (./TAMC2019.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package rerunfilecheck Info: File `TAMC2019.out' has not changed.
+(rerunfilecheck)             Checksum: 0E0E257D26045A2451EA8243BA397221;857.
 
 
-Package rerunfilecheck Warning: File `TAMC2019.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TAMC2019.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  0E0E257D26045A2451EA8243BA397221;857.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 21645 strings out of 492985
- 419016 string characters out of 6132586
- 973748 words of memory out of 5000000
- 24530 multiletter control sequences out of 15000+600000
+ 21661 strings out of 492985
+ 419222 string characters out of 6132586
+ 973799 words of memory out of 5000000
+ 24546 multiletter control sequences out of 15000+600000
  66209 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,60p,796b,1032s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2435,10 +2432,10 @@ ve/2017/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2017
 -dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
 pe1/public/wasy2-ps/wasy10.pfb>
-Output written on TAMC2019.pdf (59 pages, 871540 bytes).
+Output written on TAMC2019.pdf (59 pages, 872508 bytes).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
- 333 compressed objects within 4 object streams
+ 477 PDF objects out of 1000 (max. 8388607)
+ 376 compressed objects within 4 object streams
  134 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
