@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  10 APR 2019 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  10 APR 2019 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -857,152 +857,149 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 31.
+(hyperref)                removing `superscript' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 31.
+(hyperref)                removing `\@@underline' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 31.
+(hyperref)                removing `\hbox' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 31.
+(hyperref)                removing `superscript' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 31.
+(hyperref)                removing `\mathsurround' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 31.
+(hyperref)                removing `\z@' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 31.
+(hyperref)                removing `\@@underline' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 31.
+(hyperref)                removing `\hbox' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 31.
+(hyperref)                removing `superscript' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 31.
+(hyperref)                removing `\mathsurround' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 31.
+(hyperref)                removing `\z@' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 31.
+(hyperref)                removing `\\' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 31.
+(hyperref)                removing `superscript' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 31.
+(hyperref)                removing `math shift' on input line 34.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\footnote' on input line 36.
+(hyperref)                removing `\footnote' on input line 41.
 
-(./TAMC2019.aux
-
-LaTeX Warning: Label `fig:summary' multiply defined.
-
-)
+(./TAMC2019.aux)
 \openout1 = `TAMC2019.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 36.
-LaTeX Font Info:    Try loading font information for OML+pxmi on input line 36.
+LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 41.
+LaTeX Font Info:    Try loading font information for OML+pxmi on input line 41.
 
- (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
 File: omlpxmi.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/pxsy/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for OMS+pxsy on input line 36.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/pxsy/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+pxsy on input line 41.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/omspxsy.fd
 File: omspxsy.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/pxex/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for OMX+pxex on input line 36.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/pxex/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for OMX+pxex on input line 41.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/omxpxex.fd
 File: omxpxex.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for U+pxexa on input line 36.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for U+pxexa on input line 41.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/upxexa.fd
 File: upxexa.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Try loading font information for OT1+pxss on input line 36.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+pxss on input line 41.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/ot1pxss.fd
@@ -1074,7 +1071,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 36.
+Package hyperref Info: Link coloring OFF on input line 41.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1084,56 +1081,56 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count168
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./TAMC2019.out) (./TAMC2019.out)
 \@outlinefile=\write5
 \openout5 = `TAMC2019.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/pxr/m/n --> OT1/cmss/m/n on input line 36.
+(Font)                  OT1/pxr/m/n --> OT1/cmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/pxr/bx/n --> OT1/cmss/bx/n on input line 36.
+(Font)                  OT1/pxr/bx/n --> OT1/cmss/bx/n on input line 41.
 \symnumbers=\mathgroup11
 \sympureletters=\mathgroup12
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/pxr/m/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/pxr/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/pxr/bx/n --> OT1/pxss/bx/n on input line 36.
+(Font)                  OT1/pxr/bx/n --> OT1/pxss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/pxr/bx/n --> OT1/pxss/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 36.
+(Font)                  OT1/pxr/bx/n --> OT1/pxss/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/pxss/m/n --> OT1/pxss/m/n on input line 36.
+(Font)                  OT1/pxss/m/n --> OT1/pxss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/pxss/b/n --> OT1/pxss/m/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
+(Font)                  OT1/pxss/b/n --> OT1/pxss/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/pxr/m/it --> OT1/pxss/m/it on input line 36.
+(Font)                  OT1/pxr/m/it --> OT1/pxss/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/pxr/bx/it --> OT1/pxss/m/it on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 36.
+(Font)                  OT1/pxr/bx/it --> OT1/pxss/m/it on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/pxtt/m/n --> OT1/pxtt/m/n on input line 36.
+(Font)                  OT1/pxtt/m/n --> OT1/pxtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pxtt/b/n --> OT1/pxtt/m/n on input line 36.
+(Font)                  OT1/pxtt/b/n --> OT1/pxtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/pxss/m/n --> OT1/pxss/bx/n on input line 36.
+(Font)                  OT1/pxss/m/n --> OT1/pxss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/pxss/m/it --> OT1/pxss/bx/it on input line 36.
+(Font)                  OT1/pxss/m/it --> OT1/pxss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/pxr/bx/n on input line 36.
+(Font)                  OT1/cmss/bx/n --> OT1/pxr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/pxss/bx/n --> OT1/pxss/bx/n on input line 36.
+(Font)                  OT1/pxss/bx/n --> OT1/pxss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/pxss/m/n --> OT1/pxss/bx/n on input line 36.
+(Font)                  OT1/pxss/m/n --> OT1/pxss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/pxss/m/it --> OT1/pxss/bx/it on input line 36.
+(Font)                  OT1/pxss/m/it --> OT1/pxss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pxtt/m/n --> OT1/pxtt/bx/n on input line 36.
+(Font)                  OT1/pxtt/m/n --> OT1/pxtt/bx/n on input line 41.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1160,68 +1157,82 @@ r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 (./TAMC2019.nav)
-LaTeX Font Info:    Try loading font information for U+pxsya on input line 40.
+LaTeX Font Info:    Try loading font information for U+pxsya on input line 45.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/upxsya.fd
 File: upxsya.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxsyb on input line 40.
+LaTeX Font Info:    Try loading font information for U+pxsyb on input line 45.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/upxsyb.fd
 File: utxsyb.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for OT1+pxr on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+pxr on input line 45.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/ot1pxr.fd
 File: ot1pxr.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxmia on input line 40.
+LaTeX Font Info:    Try loading font information for U+pxmia on input line 45.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/upxmia.fd
 File: upxmia.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxsyc on input line 40.
+LaTeX Font Info:    Try loading font information for U+pxsyc on input line 45.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/pxfonts/upxsyc.fd
 File: upxsyc.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 40.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 45.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <10> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <7> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <9> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <6> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <5> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <8> not available
-(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 40.
+(Font)              Font shape `OT1/pxss/m/sl' tried instead on input line 45.
+<fig/whiteKAKENHIlogoM_jp.jpg, id=19, 422.57875pt x 179.67125pt>
+File: fig/whiteKAKENHIlogoM_jp.jpg Graphic file (type jpg)
+<use fig/whiteKAKENHIlogoM_jp.jpg>
+Package pdftex.def Info: fig/whiteKAKENHIlogoM_jp.jpg  used on input line 45. o
+n input line 45.
+Package pdftex.def Info: Requested size: 51.3422pt x 21.82828pt on input line 4
+5.
+<fig/jstlogo_sample.png, id=20, 485.815pt x 101.37875pt>
+File: fig/jstlogo_sample.png Graphic file (type png)
+<use fig/jstlogo_sample.png>
+Package pdftex.def Info: fig/jstlogo_sample.png  used on input line 45. on inpu
+t line 45.
+Package pdftex.def Info: Requested size: 102.68962pt x 21.42783pt on input line
+ 45.
  [1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./slid
-e.tex
-<RNA.png, id=88, 266.49562pt x 222.07968pt>
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/w
+hiteKAKENHIlogoM_jp.jpg> <./fig/jstlogo_sample.png>] (./slide.tex
+<RNA.png, id=36, 266.49562pt x 222.07968pt>
 File: RNA.png Graphic file (type png)
 <use RNA.png>
 Package pdftex.def Info: RNA.png  used on input line 20. on input line 20.
 Package pdftex.def Info: Requested size: 136.91603pt x 114.09952pt on input lin
 e 20.
-
-[2
+ [2
 
  <./RNA.png>] [3
 
-] [4
+]
+[4
 
 ] [5
 
@@ -1245,8 +1256,7 @@ e 20.
 
 ] [15
 
-]
-[16
+] [16
 
 ]
 LaTeX Font Info:    Font shape `OT1/pxss/m/it' in size <12> not available
@@ -1344,21 +1354,21 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] [36
 
 ]
-<fig/te.png, id=284, 126.7134pt x 152.9715pt>
+<fig/te.png, id=243, 126.7134pt x 152.9715pt>
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
 Package pdftex.def Info: fig/te.png  used on input line 871. on input line 871.
 
 Package pdftex.def Info: Requested size: 16.293pt x 19.66757pt on input line 87
 1.
-<fig/akusyu1.png, id=285, 105.996pt x 157.0668pt>
+<fig/akusyu1.png, id=244, 105.996pt x 157.0668pt>
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
 Package pdftex.def Info: fig/akusyu1.png  used on input line 871. on input line
  871.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30136pt on input line 
 871.
-<fig/akusyur.png, id=286, 441.65pt x 654.445pt>
+<fig/akusyur.png, id=245, 441.65pt x 654.445pt>
 File: fig/akusyur.png Graphic file (type png)
 <use fig/akusyur.png>
 Package pdftex.def Info: fig/akusyur.png  used on input line 871. on input line
@@ -1377,7 +1387,7 @@ Package pdftex.def Info: fig/te.png  used on input line 871. on input line 871.
 
 Package pdftex.def Info: Requested size: 16.42924pt x 19.8333pt on input line 8
 71.
-<fig/ter.png, id=287, 527.9725pt x 637.38126pt>
+<fig/ter.png, id=246, 527.9725pt x 637.38126pt>
 File: fig/ter.png Graphic file (type png)
 <use fig/ter.png>
 Package pdftex.def Info: fig/ter.png  used on input line 871. on input line 871
@@ -1390,7 +1400,7 @@ Package pdftex.def Info: fig/akusyu1.png  used on input line 871. on input line
  871.
 Package pdftex.def Info: Requested size: 16.42924pt x 24.3451pt on input line 8
 71.
-<fig/TrollFace.jpg, id=288, 3854.4pt x 2168.1pt>
+<fig/TrollFace.jpg, id=247, 3854.4pt x 2168.1pt>
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
 Package pdftex.def Info: fig/TrollFace.jpg  used on input line 871. on input li
@@ -2390,23 +2400,29 @@ Package pdftex.def Info: Requested size: 25.6724pt x 14.42397pt on input line 1
 \tf@snm=\write8
 \openout8 = `TAMC2019.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (./TAMC2019.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
-Package rerunfilecheck Info: File `TAMC2019.out' has not changed.
-(rerunfilecheck)             Checksum: 0E0E257D26045A2451EA8243BA397221;857.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `TAMC2019.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TAMC2019.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  0E0E257D26045A2451EA8243BA397221;857.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 21649 strings out of 492985
- 418915 string characters out of 6132586
- 973484 words of memory out of 5000000
- 24536 multiletter control sequences out of 15000+600000
+ 21645 strings out of 492985
+ 419016 string characters out of 6132586
+ 973748 words of memory out of 5000000
+ 24530 multiletter control sequences out of 15000+600000
  66209 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,60p,796b,1032s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2419,10 +2435,10 @@ ve/2017/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2017
 -dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
 pe1/public/wasy2-ps/wasy10.pfb>
-Output written on TAMC2019.pdf (59 pages, 804306 bytes).
+Output written on TAMC2019.pdf (59 pages, 871540 bytes).
 PDF statistics:
- 474 PDF objects out of 1000 (max. 8388607)
- 376 compressed objects within 4 object streams
+ 434 PDF objects out of 1000 (max. 8388607)
+ 333 compressed objects within 4 object streams
  134 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
