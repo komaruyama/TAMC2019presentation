@@ -1316,7 +1316,7 @@ $\Sigma = \{ a, b, c, d \}$, $R = \{ (a, a), (b, b), (c, c), (d, d) \}$, \\$arit
 
 
 \section{Oritatami system and determinism}
-\begin{frame}<1-3>\frametitle{Oritatami system and determinism}
+\begin{frame}<1-2>\frametitle{Oritatami system and determinism}
 
 \onslide*<1>
 {
@@ -1575,139 +1575,6 @@ $\Sigma = \{ a, b, c, d \}$, $R = \{ (a, a), (b, b), (c, c), (d, d) \}$, \\$arit
 \draw [dashed] [blue] (62) -- (70);
 \end{tikzpicture}\\
 }
-
-
-
-\onslide*<3>
-{
-\begin{block}{An example}
-$\Sigma = \{ a, b, c, d \}$, $R = \{ (a, a), (b, b), (c, c), (d, d) \}$, \\$arity \ \alpha = 2$, $delay \ \delta = 3$, $w = bacbcadbc\underline{bab}$
-\end{block}
-
-\begin{tikzpicture} [scale=0.4]
-\fill (-2.0, 0.0) coordinate (0);
-\fill (0.0, 0.0) coordinate (1) circle (2pt);
-\fill (0.0, 3.46410) coordinate (2) circle (2pt);
-\fill (0.0, 6.92820) coordinate (3) circle (2pt);
-\fill (0.0, 10.39230) coordinate (4) circle (2pt);
-\fill (1.0, 1.73205) coordinate (5) circle (2pt);
-\fill (1.0, 5.19615) coordinate (6) circle (2pt);
-\fill (1.0, 8.66025) coordinate (7) circle (2pt);
-\fill [red] (1.0, 12.12435) coordinate (8) circle (6pt) node [above] [scale=0.7] {a};
-\fill (2.0, 0.0) coordinate (9) circle (2pt);
-\fill [red] (2.0, 3.46410) coordinate (10) coordinate (54) circle (6pt) node [left] [scale=0.7] {a};
-\fill (2.0, 6.92820) coordinate (11) circle (2pt);
-\fill (2.0, 10.39230) coordinate (12) circle (2pt);
-\fill [red] (3.0, 1.73205) coordinate (13) coordinate (54) circle (6pt) node [below] [scale=0.7] {a};
-\fill [red] (3.0, 5.19615) coordinate (14) circle (6pt) node [left] [scale=0.7] {c};
-\fill [red] (3.0, 8.66025) coordinate (15) circle (6pt) node [left] [scale=0.7] {a};
-\fill [red] (3.0, 12.12435) coordinate (16) circle (6pt) node [above] [scale=0.7] {d};
-\fill (4.0, 0.0) coordinate (17) circle (2pt);
-\fill (4.0, 3.46410) coordinate (18) circle (2pt);
-\fill [red] (4.0, 6.92820) coordinate (19) circle (6pt) node [left] [scale=0.7] {a};
-\fill (4.0, 10.39230) coordinate (20) circle (2pt);
-\fill [red] (5.0, 1.73205) coordinate (21) circle (6pt) node [below] [scale=0.7] {b};
-\fill (5.0, 5.19615) coordinate (22) circle (6pt) node [below] [scale=0.7] {c};
-\fill (5.0, 8.66025) coordinate (23) circle (6pt) node [below] [scale=0.7] {b};
-\fill [red] (5.0, 12.12435) coordinate (24) circle (6pt) node [above] [scale=0.7] {a};
-\fill (6.0, 0.0) coordinate (25) circle (2pt);
-\fill (6.0, 3.46410) coordinate (26) circle (6pt) node [left] [scale=0.7] {b};
-\fill (6.0, 6.92820) coordinate (27) circle (6pt) node [above] [scale=0.7] {a};
-\fill (6.0, 10.39230) coordinate (28) circle (2pt);
-\fill [red] (7.0, 1.73205) coordinate (29) circle (6pt) node [below] [scale=0.7] {b};
-\fill (7.0, 5.19615) coordinate (30) circle (6pt) node [right] [scale=0.7] {c};
-\fill (7.0, 8.66025) coordinate (31) circle (2pt);
-\fill [red] (7.0, 12.12435) coordinate (32) circle (6pt) node [above] [scale=0.7] {d};
-\fill (8.0, 0.0) coordinate (33) circle (2pt);
-\fill (8.0, 3.46410) coordinate (34) circle (2pt);
-\fill (8.0, 6.92820) coordinate (35) circle (6pt) node [above] [scale=0.7] {a};
-\fill (8.0, 10.39230) coordinate (36) circle (2pt);
-\fill [red] (9.0, 1.73205) coordinate (37) circle (6pt) node [below] [scale=0.7] {d};
-\fill (9.0, 5.19615) coordinate (38) circle (2pt);
-\fill (9.0, 8.66025) coordinate (39) circle (2pt);
-\fill [red] (9.0, 12.12435) coordinate (40) circle (6pt) node [above] [scale=0.7] {a};
-\fill (10.0, 0.0) coordinate (41) circle (2pt);
-\fill [red] (10.0, 3.46410) coordinate (42) circle (6pt) node [below] [scale=0.7] {b};
-\fill (10.0, 6.92820) coordinate (43) circle (6pt) node [above] [scale=0.7] {d};
-\fill [red] (10.0, 10.39230) coordinate (44) circle (6pt) node [above] [scale=0.7] {d};
-\fill (11.0, 1.73205) coordinate (45) circle (2pt);
-\fill [red] (11.0, 5.19615) coordinate (46) circle (6pt) node [below] [scale=0.7] {d};
-\fill [red] (11.0, 8.66025) coordinate (47) circle (6pt) node [above] [scale=0.7] {d};
-\fill (11.0, 12.12435) coordinate (48) circle (2pt);
-\fill (12.0, 0.0) coordinate (49) circle (2pt);
-\fill (12.0, 3.46410) coordinate (50) circle (2pt);
-\fill (12.0, 6.92820) coordinate (51) circle (6pt) node [above] [scale=0.7] {b};
-\fill [red] (12.0, 10.39230) coordinate (52) circle (6pt) node [above] [scale=0.7] {d};
-\fill (13.0, 1.73205) coordinate (53) circle (2pt);
-\fill [red] (13.0, 5.19615) coordinate (54) circle (6pt) node [below] [scale=0.7] {b};
-\fill [red] (13.0, 8.66025) coordinate (55) circle (6pt) node [above] [scale=0.7] {b};
-\fill (13.0, 12.12435) coordinate (56) circle (2pt);
-\fill (14.0, 0.0) coordinate (57) circle (2pt);
-\fill [red] (14.0, 3.46410) coordinate (58) circle (6pt) node [left] [scale=0.7] {a};
-\fill (14.0, 6.92820) coordinate (59) circle (6pt) node [above] [scale=0.7] {c};
-\fill (14.0, 10.39230) coordinate (60) circle (2pt);
-\fill (15.0, 1.73205) coordinate (61) circle (2pt);
-\fill [brown] (15.0, 5.19615) coordinate (62) circle (6pt) node [above] [scale=0.7] {b};
-\fill (15.0, 8.66025) coordinate (63) circle (2pt);
-\fill (15.0, 12.12435) coordinate (64) circle (2pt);
-\fill (16.0, 0.0) coordinate (65) circle (2pt);
-\fill [brown] (16.0, 3.46410) coordinate (66) circle (6pt) node [right] [scale=0.7] {a};
-\fill (16.0, 6.92820) coordinate (67) circle (2pt);
-\fill (16.0, 10.39230) coordinate (68) circle (2pt);
-\fill (17.0, 1.73205) coordinate (69) circle (2pt);
-\fill [brown] (17.0, 5.19615) coordinate (70) circle (6pt) node [right] [scale=0.7] {b};
-\fill (17.0, 8.66025) coordinate (71) circle (2pt);
-\fill (17.0, 12.12435) coordinate (72) circle (2pt);
-\draw [red] (55) -- (52);
-\draw [red] (52) -- (47);
-\draw [red] (47) -- (40);
-\draw [red] (40) -- (8);
-\draw [red] (8) -- (4);
-\draw [red] (4) -- (7);
-\draw [red] (7) -- (3);
-\draw [red] (3) -- (6);
-\draw [red] (6) -- (2);
-\draw [red] (2) -- (9);
-\draw [red] (9) -- (49);
-\draw [red] (49) -- (58);
-\draw [red] (58) -- (54);
-\draw [red] (54) -- (50);
-\draw [red] (50) -- (46);
-\draw [red] (46) -- (37);
-\draw [red] (37) -- (13);
-\draw [red] (13) -- (10);
-\draw [red] (10) -- (19);
-\draw [red] (19) -- (15);
-\draw (15) -- (23);
-\draw (23) -- (27);
-\draw (27) -- (22);
-\draw (22) -- (26);
-\draw (26) -- (30);
-\draw (30) -- (35);
-\draw (35) -- (43);
-\draw (43) -- (51);
-\draw (51) -- (59);
-\draw [brown] (59) -- (62);
-\draw [brown] (62) -- (66);
-\draw [->] [brown] (66) -- (70);
-\draw [dashed] [blue] (44) -- (52);
-\draw [dashed] [blue] (19) -- (27);
-\draw [dashed] [blue] (14) -- (22);
-\draw [dashed] [blue] (26) -- (21);
-\draw [dashed] [blue] (26) -- (29);
-\draw [dashed] [blue] (22) -- (30);
-\draw [dashed] [blue] (27) -- (35);
-\draw [dashed] [blue] (43) -- (46);
-\draw [dashed] [blue] (43) -- (47);
-\draw [dashed] [blue] (51) -- (54);
-\draw [dashed] [blue] (51) -- (55);
-\draw [dashed] [blue] (54) -- (62);
-\draw [dashed] [blue] (62) -- (70);
-\draw [dashed] [blue] (58) -- (66);
-\end{tikzpicture}\\
-}
-
-
 
 \end{frame}
 
