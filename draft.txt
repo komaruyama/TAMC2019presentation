@@ -11,16 +11,25 @@ At delay 1 oritatami system, there are just two ways for a bead to get stabilize
 One is by binding
 and the other is by tunnel setction
 
-A tunnel section consists of one free point and  occpy four neighbors.
-If a bead is stabilized the central point,
-then its predecessor occpy one neighbors.
-So, the next bead has no choice but to be stabilized this free point.
+A tunnel section consists of one free point and 4 occpied neighbors.
+
+--
+
+If you enter this tunnel section form left,
+you cannot help but exit to the right.
 
 
 And the center bead is bound in order to enter tunnel section,
 hence, if the transcript spends all bond, the system cannot use tunnel section.
 
-So, if any beads cannot make a bond, then the system halt.
+Once the transcript has used up free hands,
+no bead can get stabilized deteministically anymore.
+
+------
+++[(TUのグラフページ)]
+
+Basic proof principle is to show that
+the number of free hands monotonically decrease at a constant rate.
 
 ------------------------
 
@@ -30,8 +39,8 @@ In this work,
 we proved these upper bounds
 for deterministic unary oritatami system at delay 1.
 
-At arity 1, "10n" is a known upper bound even for non unary alphabet.
-"These" upper bounds are only for unary alphabet.
+At arity 1, "10n" is a known upper bound even for non unary system.
+Our upper bounds are only for unary system.
 
 
 Note that, case of arity 2 can make infinite structures
@@ -72,7 +81,8 @@ but the system cannot make zig-zag deterministically.
 
 +-
 
-This bead can be bound non-determinizm.
+This bead can bind to any of these 2 beads.
+Hence, non-determinisic.
 
 --------------
 
@@ -83,10 +93,11 @@ This bead can be bound non-determinizm.
 
 Let me explain
 why unary oritatami system at arity 4 cannot make
-any larger than this.
+any structure larger than this.
 
 ----
 
+Without loss of generality,
 Assume first bead is at origin,
 then no bead outside hexagon of radius n at launch of the system.
 
