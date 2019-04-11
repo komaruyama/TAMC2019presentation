@@ -1,12 +1,13 @@
+
 \begin{frame}\frametitle{Cases of non-Turing-universal oritatami systems}
 
 \begin{figure}[tb]
 \begin{tikzpicture}
 %mark
 \fill[pink!30, rounded corners=3pt]
-	(1.5, 1.5) -- (1.5, 4.5) -- (3.5, 4.5) -- (3.5, 1.5) -- cycle;
+	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
 \draw[pink, rounded corners=3pt]
-	(1.5, 1.5) -- (1.5, 4.5) -- (3.5, 4.5) -- (3.5, 1.5) -- cycle;
+	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
 
 
 \node (origin) at (0, 0) {};
@@ -15,7 +16,7 @@
 \node at (2, -0.2) {1};
 \node at (4, -0.2) {2};
 \node at (6, -0.2) {3};
-\node at (8, -0.2) {4};
+\node at (8, -0.2) {$4 \cdots$};
 \draw[-latex] (origin) -- ++(90:5) node[left] {$\alpha$}; 
 \node at (-0.2, 1) {1};
 \node at (-0.2, 2) {2};
@@ -23,21 +24,21 @@
 \node at (-0.2, 4) {4};
 
 \fill (2, 4) [red] circle[radius = 0.1];
-\fill (2, 4) [red] node [right] {unary};
+\fill (2, 4) [red] node [above right] {1};
 \fill (2, 3) [red] circle[radius = 0.1];
-\fill (2, 3) [red] node [right] {unary};
+\fill (2, 3) [red] node [above right] {1};
 
 \fill (2, 2) [red] circle[radius = 0.1];
-\fill (2, 2) [red] node [right] {unary};
+\fill (2, 2) [red] node [above right] {1};
 \fill (2, 1) circle[radius = 0.1];
 
 \fill (4, 1) [red] circle[radius = 0.1];
-\fill (4, 1) [red] node [right] {unary};
+\fill (4, 1) [red] node [above right] {1};
 
 \draw (6, 4) circle[radius = 0.1];
-\fill (6, 4) node [right] {542};
+\fill (6, 4) node [above right] {542};
 \fill (6, 1) [red] circle[radius = 0.1];
-\fill (6, 1) [red] node [right] {unary};
+\fill (6, 1) [red] node [above right] {1};
 
 \draw (1, -0.9) circle[radius = 0.1];
 \fill (1, -0.9) node [right] {Turing-universal};
@@ -46,11 +47,10 @@
 \fill (1, -1.4) node [right] {Non-Turing-universal};
 
 \end{tikzpicture}
-\caption{Cases of non-Turing-universal oritatami systems}
-\label{fig:summary}
 \end{figure}
 
 \end{frame}
+
 
 
 %%%%%%%%%%
@@ -61,14 +61,15 @@
 
 \subsection{Stabilization methods}
 
-\begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
-  \begin{block}{Two ways for a bead stabilization}
+\begin{frame}\frametitle{Oritatami systems at delay 1}
+  \begin{block}{The two ways for a bead stabilization at delay 1}
     \begin{itemize}
     \item To be bound to another bead.
     \item Through a 1-in-1-out structure called the tunnel section.
     \end{itemize}
   \end{block}
 
+\begin{center}
 	\begin{columns}[c]
 		\begin{column}{0.3\textwidth}
 	    \begin{tikzpicture}
@@ -135,6 +136,7 @@
 %	 }
 %	\end{column}
 	\end{columns}
+\end{center}
 
 \end{frame}
 
@@ -202,9 +204,10 @@ $\alpha = 2$ & $\infty$ but zigzag after $(27n^2{+}9n{+}1)$ \\
 
 %%%%%%%%%% zig-zag a = 2
 
-\begin{frame}\frametitle{zig-zag conformation}
+\begin{frame}\frametitle{zig-zag}
 \begin{block}{}
-Deterministic oritatami system at $\delta = 1$ and at $\alpha = 2$ can make zig-zag conformation
+Deterministic \alert{unary} oritatami system at $\delta = 1$ and at $\alpha = 2$ can make zig-zag but cannot at larger arity
+
 \end{block}
 
 \centering{
@@ -277,9 +280,9 @@ Deterministic oritatami system at $\delta = 1$ and at $\alpha = 2$ can make zig-
 
 %%% zig-zag a = 3
 
-\begin{frame}\frametitle{zig-zag conformation}
+\begin{frame}\frametitle{zig-zag}
 \begin{block}{}
-Deterministic oritatami system at $\delta = 1$ and at $\alpha = 2$ can make zig-zag conformation
+Deterministic \alert{unary} oritatami system at $\delta = 1$ and at $\alpha = 2$ can make zig-zag but cannot at larger arity
 \end{block}
 \centering{
     \begin{tikzpicture}
@@ -433,7 +436,7 @@ Deterministic oritatami system at $\delta = 1$ and at $\alpha = 2$ can make zig-
 \begin{block}{Results ($\delta = 1$)}
 \begin{table}[h]
 \begin{tabular}{l l}
-$\alpha = 4$ & $3n^2{+}3n{+}1$ \\
+\alert{$\alpha = 4$} & \alert{$3n^2{+}3n{+}1$}\\
 $\alpha = 3$ & $4n{+}14$ \\
 $\alpha = 2$ & $\infty$ but zigzag after $(27n^2{+}9n{+}1)$ \\
  *\footnote{c.f. $\alpha = 1$: $10n$ (Demaine et al. 2018 DNA24)}\\ %*\footnote{\cite{DHOPRSST2018}} \\
@@ -541,16 +544,33 @@ The terminal conformation at $\alpha = 4$ is of length at most $3n^2  + 3n + 1$(
 	
 	\visible<2->{
 	\draw[blue] (-50:1.6)
-			to[out=-20, in=-120] (-10:2.2)
-			to[out=60, in=180] (0:3);
+			to[out=-20, in=-120] (-40:2.0)
+			to[out=60, in=180] (-30:1.73);
+	\draw[blue, shift=(0:2)]
+			 (-120:1) -- (-60:1) -- (0:0)
+			to[out=40 in=150] (0:1);
+	\fill[blue, shift=(0:3)] (-120:1) circle [radius=0.1];
+	\fill[blue, shift=(0:2)] (0:0) circle [radius=0.1];
 	}
 	\visible<2>{
 	\draw[blue, shift=(0:3)] (0:0) -- (-60:1);
 	\fill[blue, shift=(0:3)] (-60:1) circle [radius=0.1];
+	\node[anchor=west, inner sep=0, shift=(0:2), shift=(-60:1), rotate=-90] at (0:0.5) {
+ 		   \includegraphics[width=0.04\textwidth]{fig/akusyu1.png}
+	};
+	\node[anchor=south, inner sep=0, shift=(0:2), rotate=30] at (120:0.2) {
+ 		   \includegraphics[width=0.04\textwidth]{fig/te.png}
+	};
 	}
 	\visible<3>{
-		\draw[blue, shift=(0:3)] (0:0) -- (0:1);
-		\fill[blue, shift=(0:3)] (0:1) circle [radius=0.1];
+		\draw[blue, shift=(0:3)] (0:0) -- (120:1);
+		\fill[blue, shift=(0:3)] (120:1) circle [radius=0.1];
+	\node[anchor=south, inner sep=0, shift=(0:2), shift=(-60:1), rotate=-120] at (-30:0.2) {
+ 		   \includegraphics[width=0.04\textwidth]{fig/te.png}
+	};
+	\node[anchor=west, inner sep=0, shift=(0:2), rotate=-30] at (60:0.5) {
+ 		   \includegraphics[width=0.04\textwidth]{fig/akusyu1.png}
+	};
 	}
 	
 \end{tikzpicture}
@@ -628,8 +648,13 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 	\node[orange, above] at (0:0) {first bead};
 	
 	\draw[blue] (-50:1.6)
-			to[out=-20, in=-120] (-10:2.2)
-			to[out=60, in=180] (0:3);
+			to[out=-20, in=-120] (-40:2.0)
+			to[out=60, in=180] (-30:1.73);
+	\draw[blue, shift=(0:2)]
+			 (-120:1) -- (-60:1) -- (0:0)
+			to[out=40 in=150] (0:1);
+	\fill[blue, shift=(0:3)] (-120:1) circle [radius=0.1];
+	\fill[blue, shift=(0:2)] (0:0) circle [radius=0.1];
 			
 	\begin{scope}[shift=(0:3), blue]
 	\draw (0:0) -- (-60:1) -- (0:1);
@@ -936,11 +961,26 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 %\end{frame}
 
 %%%%%%
+\begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
+\begin{center}
+Tunnel Troll Theorem
+\end{center}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{fig/troll_bridge___pencils_by_gido_d60evd5.jpg}
+\end{center}
+\begin{flushright}
+{\tiny
+Illustrated by Gido
+}
+\end{flushright}
+\end{frame}
+
+
 
 \begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
 \begin{block}{Tunnel Troll Theorem}
 \begin{description}
-	\item[$\alpha \geq 4$] No free hand supplies / tunnel section.
+	\item[$\alpha \geq 4$] \# of free hands does not increase / tunnel section.
 	\item[$\alpha = 3$] Troll consumes bonds / tunnel section.
 	\item[$\alpha = 2$] Troll consumes bonds / tunnel.
 \end{description}
@@ -1394,7 +1434,7 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 %%% entrance
 
 \begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
-  \begin{block}{Jordan curve theorem (Hales 2007)}
+  \begin{block}{Jordan curve theorem}
     A closed curve which is a non-self-intersecting divides into inside and outside.
   \end{block}
 
