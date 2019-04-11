@@ -1591,16 +1591,16 @@ $\Sigma = \{ a, b, c, d \}$, $R = \{ (a, a), (b, b), (c, c), (d, d) \}$, \\$arit
 The deterministic oritatami system at $delay \ \delta = 3$ with 542 types of beads is Turing universal.
 \end{block}
 
-\begin{block}{Directions}
 \begin{itemize}
   \item A smaller Turing universal system
   \item The characterization of non-Turing-universal systems
 \end{itemize}
-\end{block}
 
 \begin{block}{Theorem}
 Polynomial upper bounds on the size of structures \\$\longrightarrow$ Non-Turing-universality
 \end{block}
+
+The system at \textit{delay} $\delta = 1$ and \textit{arity} $\alpha = 1$ is not Turing universal. (Demaine et al. DNA24, 2018.)
 
 \end{frame}
 
@@ -1621,23 +1621,11 @@ Give an upper bound on the length of a transcript of a $delay \ \delta$, $arity 
 \end{itemize}
 \end{block}
 
-\end{frame}
-
-
-
-
-
-
-
-\section{Why unary?}
-\begin{frame}\frametitle{Why unary?}
-
-\begin{block}{}
-Because we considered the unary oritatami system is good for a first step towards the characterization of non-Turing-universal oritatami systems.
-\end{block}
+\begin{alertblock}{Unary variant}
+Let's focus on \alert{unary}.
+\end{alertblock}
 
 \end{frame}
-
 
 
 
@@ -1649,7 +1637,7 @@ Because we considered the unary oritatami system is good for a first step toward
 
 \begin{figure}[tb]
 \begin{tikzpicture}
-\visible<2>{
+\visible<3>{
 \fill[pink!30, rounded corners=3pt]
 	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
 \draw[pink, rounded corners=3pt]
@@ -1671,6 +1659,7 @@ Because we considered the unary oritatami system is good for a first step toward
 \node at (-0.2, 3) {3};
 \node at (-0.2, 4) {4};
 
+\visible<2->{
 \fill (2, 4) [red] circle[radius = 0.1];
 \fill (2, 4) [red] node [above right] {1};
 \fill (2, 3) [red] circle[radius = 0.1];
@@ -1678,20 +1667,28 @@ Because we considered the unary oritatami system is good for a first step toward
 
 \fill (2, 2) [red] circle[radius = 0.1];
 \fill (2, 2) [red] node [above right] {1};
-\fill (2, 1) circle[radius = 0.1];
-\fill (2, 1) node [above right] {$\forall n$};
 
-\fill (4, 1) [red] circle[radius = 0.1];
-\fill (4, 1) [red] node [above right] {1};
-
-\draw (6, 4) circle[radius = 0.1];
-\fill (6, 4) node [above right] {542};
 \fill (6, 1) [red] circle[radius = 0.1];
 \fill (6, 1) [red] node [above right] {1};
 
+\fill (4, 1) [red] circle[radius = 0.1];
+\fill (4, 1) [red] node [above right] {1};
+}
+
+\fill (2, 1) circle[radius = 0.1];
+\fill (2, 1) node [above right] {$\forall n$};
+
+\draw (6, 4) circle[radius = 0.1];
+\fill (6, 4) node [above right] {542};
+
+
 \draw (1, -0.9) circle[radius = 0.1];
 \fill (1, -0.9) node [right] {Turing-universal};
+
+\only<2->{
 \fill (0.7, -1.4) [red] circle[radius = 0.1];
+}
+
 \fill (1, -1.4) circle[radius = 0.1];
 \fill (1, -1.4) node [right] {Non-Turing-universal};
 

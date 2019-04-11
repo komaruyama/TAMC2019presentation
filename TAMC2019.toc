@@ -4,11 +4,10 @@
 \beamer@sectionintoc {2}{Oritatami system and determinism}{14}{0}{2}
 \beamer@sectionintoc {3}{Turing universality}{16}{0}{3}
 \beamer@sectionintoc {4}{Problem}{17}{0}{4}
-\beamer@sectionintoc {5}{Why unary?}{18}{0}{5}
-\beamer@sectionintoc {6}{Turing-universal oritatami systems}{19}{0}{6}
-\beamer@sectionintoc {7}{Proof of not Turing universality}{21}{0}{7}
-\beamer@subsectionintoc {7}{1}{Stabilization methods}{21}{0}{7}
-\beamer@subsectionintoc {7}{2}{$\alpha = 2$}{24}{0}{7}
-\beamer@subsectionintoc {7}{3}{$\delta = 1$ and $\alpha = 4$}{31}{0}{7}
-\beamer@subsectionintoc {7}{4}{Upper bound proof}{59}{0}{7}
-\beamer@sectionintoc {8}{References}{59}{0}{8}
+\beamer@sectionintoc {5}{Turing-universal oritatami systems}{18}{0}{5}
+\beamer@sectionintoc {6}{Proof of not Turing universality}{21}{0}{6}
+\beamer@subsectionintoc {6}{1}{Stabilization methods}{21}{0}{6}
+\beamer@subsectionintoc {6}{2}{$\alpha = 2$}{24}{0}{6}
+\beamer@subsectionintoc {6}{3}{$\delta = 1$ and $\alpha = 4$}{31}{0}{6}
+\beamer@subsectionintoc {6}{4}{Upper bound proof}{59}{0}{6}
+\beamer@sectionintoc {7}{References}{59}{0}{7}
