@@ -1,0 +1,304 @@
+Troll
+
+
+Let me talk about the unary system at delay 1.
+
+-------------------
+[Two ways for a bead stabilization]
+&&&&&
+At delay 1 oritatami system, there are just two ways for a bead to get stabilized.
+
+One is by binding
+and the other is by tunnel setction
+
+A tunnel section consists of one free point and  occpy four neighbors.
+If a bead is stabilized the central point,
+then its predecessor occpy one neighbors.
+So, the next bead has no choice but to be stabilized this free point.
+
+
+And the center bead is bound in order to enter tunnel section,
+hence, if the transcript spends all bond, the system cannot use tunnel section.
+
+So, if any beads cannot make a bond, then the system halt.
+
+------------------------
+
+[Result d = 1]
+
+In this work,
+we proved these upper bounds
+for deterministic unary oritatami system at delay 1.
+
+At arity 1, "10n" is a known upper bound even for non unary alphabet.
+"These" upper bounds are only for unary alphabet.
+
+
+Note that, case of arity 2 can make infinite structures
+but these structure is zig-zag.
+
+------------------
+[zig-zag (at arity 2)]
+
+Let me show you
+how zig-zag folds at arity 2.
+
+
+Given this structure as seed.
+
+--
+
+Next bead have to make a bond in order to stabilize deterministically.
+
+--
+
+"This" bead has a free hand and close enough to be bound.
+So these beads use each hands.
+
+--
+
+We can continue this way.
+
+Once unary system is trapped at arity 2 in a zig-zag.
+It cannot escape unless it colides with something.
+
+----------
+[(at arity 3)]
+
+How about at larger arity?
+
+A bead extends hands more then case of at arity 2
+but the system cannot make zig-zag deterministically.
+
++-
+
+This bead can be bound non-determinizm.
+
+--------------
+
+
+[a = 4]
+[explain hexagon]
+
+
+Let me explain
+why unary oritatami system at arity 4 cannot make
+any larger than this.
+
+----
+
+Assume first bead is at origin,
+then no bead outside hexagon of radius n at launch of the system.
+
+
+Suppose that unary oritatami system at arity 4 can produse
+an infinite structure.
+Then, the transcript has to exit this hexagon.
+
+so let me focuse this moment.
+
+-----
+[explain to exit to hexagon]
+
+
+In order to stabilize "this" bead,
+it has to be bound to a bead at ----
+
+-----
+-----
+
+On the one hand, at arity 2,
+the system can make a zig-zag structure.
+but it must repeat zig-zag endlessly because nothing can stop.
+
+Hence, in this case at arity 2,
+the system is not Turing universal.
+
+
+-----
+
+In order to avoid zig-zag, this orange bead has to use 2 free hands.
+
+-----
+
+At arity 2, a bead extends 2 hands,
+so if a bead uses 2 hands, then free hands are consumed.
+It just uses one hand, then the number of free hands remains.
+
+If a bead is stabilized by tunnel, it may increases the number of free hands
+
+---
+
+but, in fact, Troll is lying in a tunnel.
+Troll robs the free hand.
+
+---
+
+This is stated in Tunnel Troll Theorem.
+
+Thus, at arity 2, a bead consumes freehands per beyond hexagon
+and the number of free hands is not increased by Troll.
+
+
+
+
+-------------------------------------------------
+----------------------------------------
+[TTT]
+
+Tunnel Troll Theorem consists these 3 statements.
+
+_arity 4: no free hand supplies per a tunnel section
+_arity 3: Troll consumes per a tunnel section.
+_arity 2: Troll consumes per a tunnel.
+
+Tunnel section is a structure which occupied 4 point of a point.
+Tunnel is a structure of which the entrance bead and the exit bead is stabilized by using no tunnel.
+
+------------------------------
+[a = 4]
+
+In unary oritatami system at arity 4,
+a bead has 4 hands.
+So, if there is a free point around a bead, then it has at least 1 free hand.
+
+
+Hence, "these" two beads must use free hand.
+That is, they are Troll.
+
+So this blue bead consumes 2 hands and extends 2 hands.
+Thus, number of freehands doesn't increase.
+
+----------
+[a = 3]
+
+At arity 3,
+a bead has 3 hands.
+So, if there are two free point around a bead, it has at least 1 free hand.
+
+Now, around "these" bead, there are two free point.
+So these two beads are Troll.
+Thus, number of free hand decreases.
+
+--
+
+This case is also
+
+--
+
+If all neighbors of blue bead are occupied, there are no troll
+but this conformation is terminal.
+
+------------
+[a = 2]
+
+At arity 2,
+a bead has 2 hands.
+So, if there is a three point around a bead, then it has at least 1 free hand.
+
+but now only 2 neighbors of this bead are free.
+
+
+Now let me forcus its predecesser.
+
+--
+
+Then, 3 neighbors are free.
+
+--
+
+So these are Troll and this bead extends 2 hands.
+Thus, the number of total free hands doesn't increase
+
+--
+
+If this point is occupied.
+Then, this is Troll and this bead extends one hands because free space is one.
+
+--
+
+If both side are occupied, then it is inside tunnel.
+
+
+-------------------------
+
+In addition, at arity 2,
+An entrance of tunnel is also lying Troll.
+
+Because, this free hand cannot use by Jordan curve theorem.
+
+Jordan curve theorem is saying that ..
+
+So, this orange bead consumes hand and supplies no free hand.
+
+
+
+
+
+------------
+------------------
+--------------
+---------------------------------
+[(entrance)]
+
+At arity 2, Troll exists at the exit of tunnel.
+
+On the other hand, Troll exists at the entrance of tunnel, too.
+
+Type of tunnel sections are these 3.
+Let me explain Straight and Obtuse tunnel sections.
+
+They tunnel sections are same entrance shape.
+
+---------
+[Directions]
+
+Ways of reach to these entrance is 3 ways.
+If this orange bead is stabilized by using bond,
+then it consumes free hands totally.
+
+-----
+
+Because tunnel walls are on one path,
+so the hands of orange bead is never used.
+
+This orange bead are and succesors are are separated.
+
+------
+
+If this orange bead is stabilized by tunnel section.
+Then, left case is cannot follow
+and center case is lying Troll
+and right case is inside tunnel.
+
+Therefore, this orange bead is stabilized by bond
+and consumes free hands.
+
+%%%%%%%%%%%%%%%%%%%%%%%
+
+--------------------
+[Result d = 1]
+
+a=2以外は無限構造を作れない。
+a=2はzig-zagなら作れる。
+
+[(how to make a zig-zag conformation)]
+a=2の場合
+
+赤をseedだとして、次のbeadを固定する時
+周囲のfreehandは一個しかないのでそこと結合
+更にその次を考えても、周囲のfreehandは一個しかないので、
+そこと結合
+
+
+a=3の場合
+
+周囲のbeadのうち二つがfreehandを持っている、(かつ同時に手を結ぶことができない)ため
+非決定。
+
+----------------------
+[Two ways for a bead to get stabilized]
+d=1の場合、この二つの方法でbeadの位置を決定することができる。
+
+一つは先ほど説明したように、freehandを持っているbeadとbondを結ぶ方法
+もう一つは、このTunnel sectionを使う方法。
