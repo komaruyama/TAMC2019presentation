@@ -1,55 +1,55 @@
-
-\begin{frame}\frametitle{Cases of non-Turing-universal oritatami systems}
-
-\begin{figure}[tb]
-\begin{tikzpicture}
-%mark
-\fill[pink!30, rounded corners=3pt]
-	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
-\draw[pink, rounded corners=3pt]
-	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
-
-
-\node (origin) at (0, 0) {};
-
-\draw[-latex] (origin) -- ++(0:9) node[below] {$\delta$}; 
-\node at (2, -0.2) {1};
-\node at (4, -0.2) {2};
-\node at (6, -0.2) {3};
-\node at (8, -0.2) {$4 \cdots$};
-\draw[-latex] (origin) -- ++(90:5) node[left] {$\alpha$}; 
-\node at (-0.2, 1) {1};
-\node at (-0.2, 2) {2};
-\node at (-0.2, 3) {3};
-\node at (-0.2, 4) {4};
-
-\fill (2, 4) [red] circle[radius = 0.1];
-\fill (2, 4) [red] node [above right] {1};
-\fill (2, 3) [red] circle[radius = 0.1];
-\fill (2, 3) [red] node [above right] {1};
-
-\fill (2, 2) [red] circle[radius = 0.1];
-\fill (2, 2) [red] node [above right] {1};
-\fill (2, 1) circle[radius = 0.1];
-
-\fill (4, 1) [red] circle[radius = 0.1];
-\fill (4, 1) [red] node [above right] {1};
-
-\draw (6, 4) circle[radius = 0.1];
-\fill (6, 4) node [above right] {542};
-\fill (6, 1) [red] circle[radius = 0.1];
-\fill (6, 1) [red] node [above right] {1};
-
-\draw (1, -0.9) circle[radius = 0.1];
-\fill (1, -0.9) node [right] {Turing-universal};
-\fill (0.7, -1.4) [red] circle[radius = 0.1];
-\fill (1, -1.4) circle[radius = 0.1];
-\fill (1, -1.4) node [right] {Non-Turing-universal};
-
-\end{tikzpicture}
-\end{figure}
-
-\end{frame}
+%
+%\begin{frame}\frametitle{Turing-universal oritatami systems}
+%
+%\begin{figure}[tb]
+%\begin{tikzpicture}
+%%mark
+%\fill[pink!30, rounded corners=3pt]
+%	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
+%\draw[pink, rounded corners=3pt]
+%	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
+%
+%
+%\node (origin) at (0, 0) {};
+%
+%\draw[-latex] (origin) -- ++(0:9) node[below] {$\delta$}; 
+%\node at (2, -0.2) {1};
+%\node at (4, -0.2) {2};
+%\node at (6, -0.2) {3};
+%\node at (8, -0.2) {$4 \cdots$};
+%\draw[-latex] (origin) -- ++(90:5) node[left] {$\alpha$}; 
+%\node at (-0.2, 1) {1};
+%\node at (-0.2, 2) {2};
+%\node at (-0.2, 3) {3};
+%\node at (-0.2, 4) {4};
+%
+%\fill (2, 4) [red] circle[radius = 0.1];
+%\fill (2, 4) [red] node [above right] {1};
+%\fill (2, 3) [red] circle[radius = 0.1];
+%\fill (2, 3) [red] node [above right] {1};
+%
+%\fill (2, 2) [red] circle[radius = 0.1];
+%\fill (2, 2) [red] node [above right] {1};
+%\fill (2, 1) circle[radius = 0.1];
+%
+%\fill (4, 1) [red] circle[radius = 0.1];
+%\fill (4, 1) [red] node [above right] {1};
+%
+%\draw (6, 4) circle[radius = 0.1];
+%\fill (6, 4) node [above right] {542};
+%\fill (6, 1) [red] circle[radius = 0.1];
+%\fill (6, 1) [red] node [above right] {1};
+%
+%\draw (1, -0.9) circle[radius = 0.1];
+%\fill (1, -0.9) node [right] {Turing-universal};
+%\fill (0.7, -1.4) [red] circle[radius = 0.1];
+%\fill (1, -1.4) circle[radius = 0.1];
+%\fill (1, -1.4) node [right] {Non-Turing-universal};
+%
+%\end{tikzpicture}
+%\end{figure}
+%
+%\end{frame}
 
 
 
@@ -62,7 +62,7 @@
 \subsection{Stabilization methods}
 
 \begin{frame}\frametitle{Oritatami systems at delay 1}
-  \begin{block}{The two ways for a bead stabilization at delay 1}
+  \begin{block}{The two ways to stabilize a bead at delay 1}
     \begin{itemize}
     \item To be bound to another bead.
     \item Through a 1-in-1-out structure called the tunnel section.
@@ -746,7 +746,7 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 	%\node[above] at (60:1) {$w[i]$};
 	%\node[above] at (120:1) {$w[i+1]$};
 	
-	\node at (-90:1) {zig-zag conformation};
+	\node at (-90:1) {zig-zag};
 	\end{tikzpicture}
     \end{column}
     
@@ -794,7 +794,7 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 	%\node[above] at (60:1) {$w[i]$};
 	%\node[above, shift=(0:1)] at (60:1) {$w[i+1]$};
 	
-	\node at (-60:2) {free hands $\leq 2$};
+	\node at (-60:2) {free hands: $-2$};
 	\end{tikzpicture}
 	\end{column}
 	\end{columns}
@@ -831,7 +831,7 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 		\fill[blue] (0:0) circle [radius=0.1];
 		\fill (60:1) circle [radius=0.1];
 		
-		\node at (-90:2) {free hands = $\pm0$};
+		\node at (-90:2) {free hands: $\pm0$};
 	\end{tikzpicture}
 	\end{column}
 	
@@ -851,7 +851,7 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 		\fill[blue] (0:0) circle [radius=0.1];
 		\fill (60:1) circle [radius=0.1];
 		\fill (120:1) circle [radius=0.1];
-		\node at (-90:2) {free hands = $-2$};
+		\node at (-90:2) {free hands: $-2$};
 	\end{tikzpicture}
 	\end{column}
 	
@@ -885,7 +885,12 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 		\fill[red, shift=(180:1)] (120:1) circle [radius=0.1];
 		\fill[shift=(180:1)] (180:1) circle [radius=0.1];
 		\fill[shift=(180:1)] (0:0) circle [radius=0.1];
-		\node[shift=(180:1)] at (-90:2) {free hands $\leq +2$};
+		\only<1>{
+		\node[shift=(180:1)] at (-90:2) {free hands: $\leq +2$};
+		}
+		\only<2>{
+		\node[shift=(180:1)] at (-90:2) {free hands: $\pm 0$};
+		}
 		%\node[teal, shift=(180:0.8)] at (-90:2.5) {but Tunnel Troll Theorem};
 	\end{tikzpicture}
 	\end{column}

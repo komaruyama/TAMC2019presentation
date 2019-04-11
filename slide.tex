@@ -1644,11 +1644,19 @@ Because we considered the unary oritatami system is good for a first step toward
 
 
 
-\section{Cases of non-Turing-universal oritatami systems}
-\begin{frame}\frametitle{Cases of non-Turing-universal oritatami systems}
+\section{Turing-universal oritatami systems}
+\begin{frame}\frametitle{Turing-universal oritatami systems}
 
 \begin{figure}[tb]
 \begin{tikzpicture}
+\visible<2>{
+\fill[pink!30, rounded corners=3pt]
+	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
+\draw[pink, rounded corners=3pt]
+	(1.5, 1.5) -- (1.5, 4.5) -- (2.7, 4.5) -- (2.7, 1.5) -- cycle;
+
+
+}
 
 \node (origin) at (0, 0) {};
 
@@ -1671,6 +1679,7 @@ Because we considered the unary oritatami system is good for a first step toward
 \fill (2, 2) [red] circle[radius = 0.1];
 \fill (2, 2) [red] node [above right] {1};
 \fill (2, 1) circle[radius = 0.1];
+\fill (2, 1) node [above right] {$\forall n$};
 
 \fill (4, 1) [red] circle[radius = 0.1];
 \fill (4, 1) [red] node [above right] {1};
@@ -1686,7 +1695,11 @@ Because we considered the unary oritatami system is good for a first step toward
 \fill (1, -1.4) circle[radius = 0.1];
 \fill (1, -1.4) node [right] {Non-Turing-universal};
 
+\node at (7.5,-0.9) {Superscript specifies};
+\node at (8,-1.4) {the alphabet size};
+
 \end{tikzpicture}
+
 \end{figure}
 
 \end{frame}
