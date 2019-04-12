@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  11 APR 2019 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  12 APR 2019 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2429,9 +2429,31 @@ Package pdftex.def Info: Requested size: 13.69243pt x 16.52814pt on input line
 1528.
  [51
 
-] [52
+]
+<fig/goseichou.png, id=375, 804.75656pt x 85.82062pt>
+File: fig/goseichou.png Graphic file (type png)
+<use fig/goseichou.png>
+Package pdftex.def Info: fig/goseichou.png  used on input line 1566. on input l
+ine 1566.
+Package pdftex.def Info: Requested size: 290.9531pt x 31.02765pt on input line 
+1566.
+<fig/staff_fazekas.jpg, id=376, 604.2575pt x 806.01125pt>
+File: fig/staff_fazekas.jpg Graphic file (type jpg)
+<use fig/staff_fazekas.jpg>
+Package pdftex.def Info: fig/staff_fazekas.jpg  used on input line 1566. on inp
+ut line 1566.
+Package pdftex.def Info: Requested size: 61.61179pt x 82.18007pt on input line 
+1566.
+<fig/6845-0.jpg, id=377, 75.1608pt x 104.0688pt>
+File: fig/6845-0.jpg Graphic file (type jpg)
+<use fig/6845-0.jpg>
+Package pdftex.def Info: fig/6845-0.jpg  used on input line 1566. on input line
+ 1566.
+Package pdftex.def Info: Requested size: 61.61179pt x 85.30838pt on input line 
+1566.
+ [52
 
-] [53
+ <./fig/goseichou.png> <./fig/staff_fazekas.jpg> <./fig/6845-0.jpg>] [53
 
 ] [54
 
@@ -2442,19 +2464,19 @@ Package pdftex.def Info: Requested size: 13.69243pt x 16.52814pt on input line
 ]
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1885. on input l
-ine 1885.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1911. on input l
+ine 1911.
 Package pdftex.def Info: Requested size: 25.6724pt x 14.42397pt on input line 1
-885.
+911.
  [57
 
 ]
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1885. on input l
-ine 1885.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1911. on input l
+ine 1911.
 Package pdftex.def Info: Requested size: 25.6724pt x 14.42397pt on input line 1
-885.
+911.
  [58
 
 ]) (./TAMC2019.bbl) [59
@@ -2471,19 +2493,18 @@ Package pdftex.def Info: Requested size: 25.6724pt x 14.42397pt on input line 1
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
-
-(./TAMC2019.aux)
+ (./TAMC2019.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `TAMC2019.out' has not changed.
 (rerunfilecheck)             Checksum: 2E77399C5185A67FDB1043A004B08EFE;801.
  ) 
 Here is how much of TeX's memory you used:
- 21680 strings out of 492985
- 420162 string characters out of 6132586
+ 21692 strings out of 492985
+ 420440 string characters out of 6132586
  972598 words of memory out of 5000000
- 24568 multiletter control sequences out of 15000+600000
- 64763 words of font info for 164 fonts, out of 8000000 for 9000
+ 24579 multiletter control sequences out of 15000+600000
+ 62707 words of font info for 161 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,60p,796b,1032s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -2495,10 +2516,10 @@ ve/2017/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2017
 -dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
 pe1/public/wasy2-ps/wasy10.pfb>
-Output written on TAMC2019.pdf (59 pages, 3013641 bytes).
+Output written on TAMC2019.pdf (59 pages, 3483679 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
+ 481 PDF objects out of 1000 (max. 8388607)
  372 compressed objects within 4 object streams
  132 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

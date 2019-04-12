@@ -1,7 +1,7 @@
 Troll
 
 
-Let me talk about the unary system at delay 1.
+Let me take over the talk.
 
 -------------------
 [Two ways for a bead stabilization]
@@ -11,17 +11,15 @@ At delay 1 oritatami system, there are just two ways for a bead to get stabilize
 One is by binding
 and the other is by tunnel setction
 
-A tunnel section consists of one free point and 4 occpied neighbors.
+A tunnel section consists of one point surrounded by 4 beads.
 
 --
 
-If you enter this tunnel section form left,
+If you enter form left,
 you cannot help but exit to the right.
 
 
 And the center bead is bound in order to enter tunnel section,
-hence, if the transcript spends all bond, the system cannot use tunnel section.
-
 Once the transcript has used up free hands,
 no bead can get stabilized deteministically anymore.
 
@@ -31,6 +29,8 @@ no bead can get stabilized deteministically anymore.
 Basic proof principle is to show that
 the number of free hands monotonically decrease at a constant rate.
 
+This is how Demain and others proved this black point.
+
 ------------------------
 
 [Result d = 1]
@@ -39,8 +39,7 @@ In this work,
 we proved these upper bounds
 for deterministic unary oritatami system at delay 1.
 
-At arity 1, "10n" is a known upper bound even for non unary system.
-Our upper bounds are only for unary system.
+Our upper bounds are proved only for unary alphabet so far.
 
 
 Note that, case of arity 2 can make infinite structures
@@ -61,7 +60,7 @@ Next bead have to make a bond in order to stabilize deterministically.
 
 --
 
-"This" bead has a free hand and close enough to be bound.
+"This" bead has a free hand and close enough to bind.
 So these beads use each hands.
 
 --
@@ -82,7 +81,7 @@ but the system cannot make zig-zag deterministically.
 +-
 
 This bead can bind to any of these 2 beads.
-Hence, non-determinisic.
+Hence, non-determinism.
 
 --------------
 
@@ -93,31 +92,22 @@ Hence, non-determinisic.
 
 Let me explain
 why unary oritatami system at arity 4 cannot make
-any structure larger than this.
+any structure larger than this size.
 
 ----
 
 Without loss of generality,
-Assume first bead is at origin,
+the first bead is assumed to be at the origin,
 then no bead outside hexagon of radius n at launch of the system.
 
+---
 
-Suppose that unary oritatami system at arity 4 can produse
-an infinite structure.
-Then, the transcript has to exit this hexagon.
+"This" is the number of points in this hexagon.
 
-so let me focuse this moment.
+Once you step outside hexagon,
+you immediately encounter non-determinism.
+Hence, this upper bound holds.
 
------
-[explain to exit to hexagon]
-
-
-In order to stabilize "this" bead,
-it has to be bound to a bead at edge of this hexagon.
-but, at edge of this blue structure,
-There is a bead which has free hand.
-
-Hence, 
 
 -----
 -----
@@ -126,25 +116,30 @@ On the one hand, at arity 2,
 the system can make a zig-zag structure.
 but it must repeat zig-zag endlessly because nothing can stop.
 
-Hence, in this case at arity 2,
-the system is not Turing universal.
+In this case at arity 2,
+this system is predictable in the arbitrarily far future.
+
+Hence, the system is not Turing universal.
 
 
 -----
 
-In order to avoid zig-zag, this orange bead has to use 2 free hands.
+In order to avoid zig-zag, this orange bead must bind to 2 beads
+and its possible only inward.
+
+Expanding the circumcircle by the unit distance costs free hands
+
+
+Without any tunnel section, this proof could be done.
 
 -----
 
-At arity 2, a bead extends 2 hands,
-so if a bead uses 2 hands, then free hands are consumed.
-It just uses one hand, then the number of free hands remains.
+However tunnel section exists
+and create two hands.
 
-If a bead is stabilized by tunnel, it may increases the number of free hands
+That's no case
+because Troll ambushes in a tunnel.
 
----
-
-but, in fact, Troll is lying in a tunnel.
 Troll robs the free hand.
 
 ---
@@ -163,11 +158,8 @@ and the number of free hands is not increased by Troll.
 
 Tunnel Troll Theorem consists these 3 statements.
 
-_arity 4: no free hand supplies per a tunnel section
-_arity 3: Troll consumes per a tunnel section.
-_arity 2: Troll consumes per a tunnel.
 
-Tunnel section is a structure which occupied 4 point of a point.
+Tunnel section is this structure.
 Tunnel is a structure of which the entrance bead and the exit bead is stabilized by using no tunnel.
 
 ------------------------------
@@ -202,7 +194,7 @@ This case is also
 --
 
 If all neighbors of blue bead are occupied, there are no troll
-but this conformation is terminal.
+but this is a dead end.
 
 ------------
 [a = 2]
@@ -227,12 +219,12 @@ Thus, the number of total free hands doesn't increase
 
 --
 
-If this point is occupied.
-Then, this is Troll and this bead extends one hands because free space is one.
+%If this point is occupied.
+%Then, this is Troll and this bead extends one hands because free space is one.
 
 --
 
-If both side are occupied, then it is inside tunnel.
+%If both side are occupied, then it is inside tunnel.
 
 
 -------------------------
@@ -241,13 +233,16 @@ In addition, at arity 2,
 An entrance of tunnel is also lying Troll.
 
 Because, this free hand cannot use by Jordan curve theorem.
+Once going through a tunnel,
+the transcript goes beyond the border
+and cannot come back.
 
-Jordan curve theorem is saying that ..
-
-So, this orange bead consumes hand and supplies no free hand.
+So, this orange bead consumes free hand.
 
 
+--------
 
+Thank you for listening.
 
 
 ------------
