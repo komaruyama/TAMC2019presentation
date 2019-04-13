@@ -4,7 +4,7 @@
 \beamer@sectionintoc {2}{Oritatami system and determinism}{14}{0}{2}
 \beamer@sectionintoc {3}{Turing universality}{16}{0}{3}
 \beamer@sectionintoc {4}{Problem}{17}{0}{4}
-\beamer@sectionintoc {5}{Turing-universal oritatami systems}{18}{0}{5}
+\beamer@sectionintoc {5}{Turing universality and oritatami systems}{18}{0}{5}
 \beamer@sectionintoc {6}{Proof of not Turing universality}{21}{0}{6}
 \beamer@subsectionintoc {6}{1}{Stabilization methods}{21}{0}{6}
 \beamer@subsectionintoc {6}{2}{$\alpha = 2$}{24}{0}{6}

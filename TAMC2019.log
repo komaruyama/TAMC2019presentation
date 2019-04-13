@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  12 APR 2019 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.8)  13 APR 2019 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1332,83 +1332,83 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 <fig/akusyu1.png, id=254, 105.996pt x 157.0668pt>
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 579. on input line
- 579.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 587. on input line
+ 587.
 Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
-79.
+87.
 <fig/te.png, id=255, 126.7134pt x 152.9715pt>
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 579. on input line 579.
+Package pdftex.def Info: fig/te.png  used on input line 587. on input line 587.
 
-Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 57
-9.
+Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 58
+7.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 579. on input line 579.
+Package pdftex.def Info: fig/te.png  used on input line 587. on input line 587.
 
-Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 57
-9.
+Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 58
+7.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 579. on input line
- 579.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 587. on input line
+ 587.
 Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
-79.
+87.
 [31
 
  <./fig/akusyu1.png> <./fig/te.png>]
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 579. on input line
- 579.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 587. on input line
+ 587.
 Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
-79.
+87.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 579. on input line 579.
+Package pdftex.def Info: fig/te.png  used on input line 587. on input line 587.
 
-Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 57
-9.
+Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 58
+7.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 579. on input line 579.
+Package pdftex.def Info: fig/te.png  used on input line 587. on input line 587.
 
-Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 57
-9.
+Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 58
+7.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 579. on input line
- 579.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 587. on input line
+ 587.
 Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
-79.
+87.
  [32
 
 ]
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 579. on input line
- 579.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 587. on input line
+ 587.
 Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
-79.
+87.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 579. on input line 579.
+Package pdftex.def Info: fig/te.png  used on input line 587. on input line 587.
 
-Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 57
-9.
+Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 58
+7.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 579. on input line 579.
+Package pdftex.def Info: fig/te.png  used on input line 587. on input line 587.
 
-Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 57
-9.
+Package pdftex.def Info: Requested size: 13.6895pt x 16.5258pt on input line 58
+7.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 579. on input line
- 579.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 587. on input line
+ 587.
 Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
-79.
+87.
  [33
 
 ] [34
@@ -1418,106 +1418,106 @@ Package pdftex.def Info: Requested size: 13.6895pt x 20.28519pt on input line 5
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 901. on input line 901.
+Package pdftex.def Info: fig/te.png  used on input line 908. on input line 908.
 
 Package pdftex.def Info: Requested size: 16.293pt x 19.66757pt on input line 90
-1.
+8.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30136pt on input line 
-901.
+908.
 <fig/akusyur.png, id=285, 441.65pt x 654.445pt>
 File: fig/akusyur.png Graphic file (type png)
 <use fig/akusyur.png>
-Package pdftex.def Info: fig/akusyur.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyur.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30016pt on input line 
-901.
+908.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30136pt on input line 
-901.
+908.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 901. on input line 901.
+Package pdftex.def Info: fig/te.png  used on input line 908. on input line 908.
 
 Package pdftex.def Info: Requested size: 16.42924pt x 19.8333pt on input line 9
-01.
+08.
 <fig/ter.png, id=286, 527.9725pt x 637.38126pt>
 File: fig/ter.png Graphic file (type png)
 <use fig/ter.png>
-Package pdftex.def Info: fig/ter.png  used on input line 901. on input line 901
+Package pdftex.def Info: fig/ter.png  used on input line 908. on input line 908
 .
 Package pdftex.def Info: Requested size: 16.42924pt x 19.83058pt on input line 
-901.
+908.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 16.42924pt x 24.3451pt on input line 9
-01.
+08.
 <fig/TrollFace.jpg, id=287, 3854.4pt x 2168.1pt>
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 901. on input li
-ne 901.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 908. on input li
+ne 908.
 Package pdftex.def Info: Requested size: 27.38278pt x 15.38336pt on input line 
-901.
+908.
  [36
 
  <./fig/akusyur.png> <./fig/ter.png> <./fig/TrollFace.jpg>]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 901. on input line 901.
+Package pdftex.def Info: fig/te.png  used on input line 908. on input line 908.
 
 Package pdftex.def Info: Requested size: 16.293pt x 19.66757pt on input line 90
-1.
+8.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30136pt on input line 
-901.
+908.
 File: fig/akusyur.png Graphic file (type png)
 <use fig/akusyur.png>
-Package pdftex.def Info: fig/akusyur.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyur.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30016pt on input line 
-901.
+908.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 14.37575pt x 21.30136pt on input line 
-901.
+908.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 901. on input line 901.
+Package pdftex.def Info: fig/te.png  used on input line 908. on input line 908.
 
 Package pdftex.def Info: Requested size: 16.42924pt x 19.8333pt on input line 9
-01.
+08.
 File: fig/ter.png Graphic file (type png)
 <use fig/ter.png>
-Package pdftex.def Info: fig/ter.png  used on input line 901. on input line 901
+Package pdftex.def Info: fig/ter.png  used on input line 908. on input line 908
 .
 Package pdftex.def Info: Requested size: 16.42924pt x 19.83058pt on input line 
-901.
+908.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 901. on input line
- 901.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 908. on input line
+ 908.
 Package pdftex.def Info: Requested size: 16.42924pt x 24.3451pt on input line 9
-01.
+08.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 901. on input li
-ne 901.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 908. on input li
+ne 908.
 Package pdftex.def Info: Requested size: 27.38278pt x 15.38336pt on input line 
-901.
+908.
  [37
 
 ]
@@ -1526,931 +1526,931 @@ Package pdftex.def Info: Requested size: 27.38278pt x 15.38336pt on input line
 File: fig/troll_bridge___pencils_by_gido_d60evd5.jpg Graphic file (type jpg)
 <use fig/troll_bridge___pencils_by_gido_d60evd5.jpg>
 Package pdftex.def Info: fig/troll_bridge___pencils_by_gido_d60evd5.jpg  used o
-n input line 981. on input line 981.
+n input line 988. on input line 988.
 Package pdftex.def Info: Requested size: 273.83728pt x 161.66919pt on input lin
-e 981.
+e 988.
  [38
 
  <./fig/troll_bridge___pencils_by_gido_d60evd5.jpg>]
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1050. on input l
-ine 1050.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1057. on input l
+ine 1057.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1050.
+1057.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1050. on input l
-ine 1050.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1057. on input l
+ine 1057.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1050.
+1057.
  [39
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1134. on input line 113
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1141. on input line 114
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1134.
+1141.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1134. on input line 113
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1141. on input line 114
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1134.
+1141.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1134. on input l
-ine 1134.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1141. on input l
+ine 1141.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1134.
+1141.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1134. on input l
-ine 1134.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1141. on input l
+ine 1141.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1134.
+1141.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1134. on input line 113
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1141. on input line 114
+1.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1134.
+1141.
  [40
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1134. on input line 113
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1141. on input line 114
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1134.
+1141.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1134. on input line 113
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1141. on input line 114
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1134.
+1141.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1134. on input l
-ine 1134.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1141. on input l
+ine 1141.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1134.
+1141.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1134. on input l
-ine 1134.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1141. on input l
+ine 1141.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1134.
+1141.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1134. on input lin
-e 1134.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1141. on input lin
+e 1141.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1134.
+1141.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1134. on input line 113
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1141. on input line 114
+1.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1134.
+1141.
  [41
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1314.
+1321.
  [42
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1314.
+1321.
  [43
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1314.
+1321.
  [44
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1314. on input l
-ine 1314.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1321. on input l
+ine 1321.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1314. on input lin
-e 1314.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1321. on input lin
+e 1321.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1314.
+1321.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1314. on input line 131
-4.
+Package pdftex.def Info: fig/te.png  used on input line 1321. on input line 132
+1.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1314.
+1321.
  [45
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1435.
+1442.
  [46
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1435.
+1442.
  [47
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1435.
+1442.
  [48
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1435.
+1442.
 
 [49
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 13.14432pt x 15.86757pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 13.14432pt x 19.47751pt on input line 
-1435.
+1442.
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1435. on input l
-ine 1435.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1442. on input l
+ine 1442.
 Package pdftex.def Info: Requested size: 27.93074pt x 15.68109pt on input line 
-1435.
+1442.
 File: fig/akusyu1.png Graphic file (type png)
 <use fig/akusyu1.png>
-Package pdftex.def Info: fig/akusyu1.png  used on input line 1435. on input lin
-e 1435.
+Package pdftex.def Info: fig/akusyu1.png  used on input line 1442. on input lin
+e 1442.
 Package pdftex.def Info: Requested size: 14.37648pt x 21.30136pt on input line 
-1435.
+1442.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1435. on input line 143
-5.
+Package pdftex.def Info: fig/te.png  used on input line 1442. on input line 144
+2.
 Package pdftex.def Info: Requested size: 14.37648pt x 17.35443pt on input line 
-1435.
+1442.
  [50
 
 ]
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1528. on input line 152
-8.
+Package pdftex.def Info: fig/te.png  used on input line 1535. on input line 153
+5.
 Package pdftex.def Info: Requested size: 13.69243pt x 16.52814pt on input line 
-1528.
+1535.
 File: fig/te.png Graphic file (type png)
 <use fig/te.png>
-Package pdftex.def Info: fig/te.png  used on input line 1528. on input line 152
-8.
+Package pdftex.def Info: fig/te.png  used on input line 1535. on input line 153
+5.
 Package pdftex.def Info: Requested size: 13.69243pt x 16.52814pt on input line 
-1528.
+1535.
  [51
 
 ]
 <fig/goseichou.png, id=375, 804.75656pt x 85.82062pt>
 File: fig/goseichou.png Graphic file (type png)
 <use fig/goseichou.png>
-Package pdftex.def Info: fig/goseichou.png  used on input line 1566. on input l
-ine 1566.
+Package pdftex.def Info: fig/goseichou.png  used on input line 1573. on input l
+ine 1573.
 Package pdftex.def Info: Requested size: 290.9531pt x 31.02765pt on input line 
-1566.
+1573.
 <fig/staff_fazekas.jpg, id=376, 604.2575pt x 806.01125pt>
 File: fig/staff_fazekas.jpg Graphic file (type jpg)
 <use fig/staff_fazekas.jpg>
-Package pdftex.def Info: fig/staff_fazekas.jpg  used on input line 1566. on inp
-ut line 1566.
+Package pdftex.def Info: fig/staff_fazekas.jpg  used on input line 1573. on inp
+ut line 1573.
 Package pdftex.def Info: Requested size: 61.61179pt x 82.18007pt on input line 
-1566.
+1573.
 <fig/6845-0.jpg, id=377, 75.1608pt x 104.0688pt>
 File: fig/6845-0.jpg Graphic file (type jpg)
 <use fig/6845-0.jpg>
-Package pdftex.def Info: fig/6845-0.jpg  used on input line 1566. on input line
- 1566.
+Package pdftex.def Info: fig/6845-0.jpg  used on input line 1573. on input line
+ 1573.
 Package pdftex.def Info: Requested size: 61.61179pt x 85.30838pt on input line 
-1566.
+1573.
  [52
 
  <./fig/goseichou.png> <./fig/staff_fazekas.jpg> <./fig/6845-0.jpg>] [53
@@ -2464,19 +2464,19 @@ Package pdftex.def Info: Requested size: 61.61179pt x 85.30838pt on input line
 ]
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1911. on input l
-ine 1911.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1918. on input l
+ine 1918.
 Package pdftex.def Info: Requested size: 25.6724pt x 14.42397pt on input line 1
-911.
+918.
  [57
 
 ]
 File: fig/TrollFace.jpg Graphic file (type jpg)
 <use fig/TrollFace.jpg>
-Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1911. on input l
-ine 1911.
+Package pdftex.def Info: fig/TrollFace.jpg  used on input line 1918. on input l
+ine 1918.
 Package pdftex.def Info: Requested size: 25.6724pt x 14.42397pt on input line 1
-911.
+918.
  [58
 
 ]) (./TAMC2019.bbl) [59
@@ -2497,12 +2497,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `TAMC2019.out' has not changed.
-(rerunfilecheck)             Checksum: 2E77399C5185A67FDB1043A004B08EFE;801.
+(rerunfilecheck)             Checksum: 56B5607EF839C051408B92D8F9359320;808.
  ) 
 Here is how much of TeX's memory you used:
  21692 strings out of 492985
  420440 string characters out of 6132586
- 972598 words of memory out of 5000000
+ 972612 words of memory out of 5000000
  24579 multiletter control sequences out of 15000+600000
  62707 words of font info for 161 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2516,7 +2516,7 @@ ve/2017/texmf-dist/fonts/type1/public/pxfonts/pxsy.pfb></usr/local/texlive/2017
 -dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
 pe1/public/wasy2-ps/wasy10.pfb>
-Output written on TAMC2019.pdf (59 pages, 3483679 bytes).
+Output written on TAMC2019.pdf (59 pages, 3483792 bytes).
 PDF statistics:
  481 PDF objects out of 1000 (max. 8388607)
  372 compressed objects within 4 object streams

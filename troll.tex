@@ -531,10 +531,18 @@ The terminal conformation at $\alpha = 4$ is of length at most $3n^2  + 3n + 1$(
 	\draw[violet, ->, shift=(150:0.1)] (-120:1.8) -- (-120:2.9);
 	\node[violet, shift=(150:0.2)] at (-120:1.5) {$n$};
 	
+	\only<1>{
 	\draw[red] (0:0)
 		to[out=-15, in=90] (-20:1)
 		to[out=-90, in=90] (-75:0.8)
 		to[out=-90, in=160] (-50:1.6);
+	}
+	\only<2->{
+	\draw[blue] (0:0)
+		to[out=-15, in=90] (-20:1)
+		to[out=-90, in=90] (-75:0.8)
+		to[out=-90, in=160] (-50:1.6);
+	}
 	\node[red] at (-60:1.8) {seed (n beads)};
 	
 	\node at (20:4.3) {bead free};
@@ -635,8 +643,7 @@ A transcript folds into the zig-zag conformation after its $(27n^2 + 9n +1)$-th 
 	\draw[violet, ->, shift=(150:0.1)] (-120:1.2) -- (-120:0.1);
 	\draw[violet, ->, shift=(150:0.1)] (-120:1.8) -- (-120:2.9);
 	\node[violet, shift=(150:0.2)] at (-120:1.5) {$n$};
-	
-	\draw[red] (0:0)
+	\draw[blue] (0:0)
 		to[out=-15, in=90] (-20:1)
 		to[out=-90, in=90] (-75:0.8)
 		to[out=-90, in=160] (-50:1.6);
@@ -1055,7 +1062,7 @@ Illustrated by Gido
 \begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
 \begin{block}{Tunnel Troll Theorem}
 \begin{description}
-	\item[$\alpha \geq 4$] Any hands are not supplied with using a tunnel section.
+	\item[$\alpha \geq 4$] \# of free hands does not increase when using a tunnel section.
 \end{description}
 \end{block}
 \begin{center}
@@ -1139,7 +1146,7 @@ Illustrated by Gido
 \begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
 \begin{block}{Tunnel Troll Theorem}
 \begin{description}
-	\item[$\alpha = 3$] At least one free hand is decreased / tunnel section.
+	\item[$\alpha = 3$] At least one free hand is consumed / tunnel section.
 \end{description}
 \end{block}
 
@@ -1212,7 +1219,7 @@ Illustrated by Gido
 	           	\foreach \tta in {60,0,-60}{
 				\fill[red, shift=(0:1.5)] (\tta:1.5) circle [radius=0.1];
 			}
-			 \node at (0,-2) {terminal conformaion};
+			 \node at (0,-2) {terminal conformation};
 	          }
 	\end{tikzpicture}
 	\end{column}
@@ -1319,7 +1326,7 @@ Illustrated by Gido
 \begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
 \begin{block}{Tunnel Troll Theorem}
 \begin{description}
-	\item[$\alpha = 2$] At least one free hand is decreased / tunnel.
+	\item[$\alpha = 2$] At least one free hand is consumed / tunnel.
 \end{description}
 \end{block}
 
@@ -1440,7 +1447,7 @@ Illustrated by Gido
 
 \begin{frame}\frametitle{Deterministic unary oritatami systems at delay 1}
   \begin{block}{Jordan curve theorem}
-    A closed curve which is a non-self-intersecting divides the plane into inside and outside.
+    A closed curve which is non-self-intersecting, divides the plane into inside and outside.
   \end{block}
 
   \begin{center}
