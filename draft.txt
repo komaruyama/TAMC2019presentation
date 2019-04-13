@@ -29,7 +29,7 @@ no bead can get stabilized deteministically anymore.
 Basic proof principle is to show that
 the number of free hands monotonically decrease at a constant rate.
 
-This is how Demain and others proved this black point.
+This is how Demaine and others proved this black point.
 
 ------------------------
 
@@ -137,7 +137,7 @@ Without any tunnel section, this proof could be done.
 However tunnel section exists
 and create two hands.
 
-That's no case
+That's not the case
 because Troll ambushes in a tunnel.
 
 Troll robs the free hand.
@@ -189,12 +189,12 @@ Thus, number of free hand decreases.
 
 --
 
-This case is also
+%This case is also
 
 --
 
-If all neighbors of blue bead are occupied, there are no troll
-but this is a dead end.
+%If all neighbors of blue bead are occupied, there are no troll
+%but this is a dead end.
 
 ------------
 [a = 2]
